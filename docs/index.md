@@ -1,5 +1,7 @@
 Test commit
 
+another test commit
+
 ## Sample
 
 One more, finally. Or not? :)
